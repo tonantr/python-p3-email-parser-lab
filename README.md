@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Validate that strings match specific patterns using regular expressions.
-- Search for strings that match specific patterns using regular expressions.
+- Search for strings that match specific patterns using regular expressions...
 
 ***
 
